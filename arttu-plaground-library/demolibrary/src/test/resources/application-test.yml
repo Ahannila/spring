@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    username: postgres
+    password: Tehosekoitin1!
+    url: jdbc:postgresql://localhost:5432/postgres?currentSchema=public
+common:
+  api:
+    endpoint: test-spring-custom
